@@ -1,0 +1,6 @@
+# build output and bundled binaries are not kept in git
+MediaSense.exe
+build/
+tools/
+test_media/
+*.msrot*
